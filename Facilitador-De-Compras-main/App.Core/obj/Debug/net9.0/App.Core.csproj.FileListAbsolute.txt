@@ -1,0 +1,57 @@
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.exe
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.runtimeconfig.json
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.genruntimeconfig.cache
+C:\Projects\Company\Etecs\Materias\LinguagemDeProgramacao1\Projetos\FacilitadorDeDecisaoDeCompra\App\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.exe
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.runtimeconfig.json
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.genruntimeconfig.cache
+C:\ph e nk\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.exe
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.runtimeconfig.json
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\App.Core.genruntimeconfig.cache
+C:\Users\joaop\Downloads\FacilitadorDeCompraApp\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\bin\Debug\net9.0\App.Core.exe
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\bin\Debug\net9.0\App.Core.deps.json
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\bin\Debug\net9.0\App.Core.runtimeconfig.json
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\bin\Debug\net9.0\App.Core.dll
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\bin\Debug\net9.0\App.Core.pdb
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.dll
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\refint\App.Core.dll
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.pdb
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\ref\App.Core.dll
+C:\Users\Aluno\Downloads\Facilitador-De-Compras-main\App.Core\obj\Debug\net9.0\App.Core.sourcelink.json
